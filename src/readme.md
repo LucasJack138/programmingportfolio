@@ -3,46 +3,46 @@
 ## Semester 1
 
 #### ColDet
- [ColDet](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/ColDet)
+[ColDet](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/ColDet)
 
 #### Shapes
-! [Shapes](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Shapes)
+[Shapes](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Shapes)
 
 #### Random
-! [Random](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Random)
+[Random](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Random)
 
 #### Zoog
-! [Zoog](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Zoog)
+[Zoog](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Zoog)
 
 #### Grades
-! [Grades](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Grades)
+[Grades](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Grades)
 
 #### Loops
-! [Loops](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Loops)
+[Loops](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Loops)
 
 #### Converter
-! [Converter](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Converter)
+[Converter](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Converter)
 
 #### Etch_A_Sketch
-! [Etch_A_Sketch](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Etch_A_Sketch)
+[Etch_A_Sketch](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Etch_A_Sketch)
 
 #### TempConverter
-! [TempConverter](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/TempConverter)
+[TempConverter](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/TempConverter)
 
 #### Pong
-! [Pong](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Pong)
+[Pong](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Pong)
 
 #### ScreenSaver
-! [ScreenSaver](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/ScreenSaver)
+[ScreenSaver](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/ScreenSaver)
 
 #### Arrays
-! [Arrays](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Arrays)
+[Arrays](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Arrays)
 
 #### CarTester
-! [CarTester](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/CarTester)
+[CarTester](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/CarTester)
 
 #### Calculator
-! [CarTester](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/CarTester)
+[CarTester](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/CarTester)
 
 #### SpaceGame
-! [SpaceGame](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/SpaceGame)
+[SpaceGame](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/SpaceGame)
