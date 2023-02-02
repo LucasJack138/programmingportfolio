@@ -3,7 +3,7 @@
 ## Semester 1
 
 #### ColDet
-! [ColDet](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/ColDet)
+ [ColDet](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/ColDet)
 
 #### Shapes
 ! [Shapes](https://github.com/LunaticLuka/programmingportfolio/tree/main/src/Shapes)
