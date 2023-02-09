@@ -6,6 +6,6 @@
 
 OOP Graphical Calculator built in Processing 4
 
-![Running Calculator](https://github.com/LunaticLuka/programmingportfolio/blob/main/images/Calc.png?raw=true)
+![Running Calculator]()
 
 [Calculator Source Code]()
