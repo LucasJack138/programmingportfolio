@@ -6,6 +6,6 @@
 
 OOP Graphical Calculator built in Processing 4
 
-! [Running Calculator]()
+![Running Calculator]()
 
 [Calculator Source Code]()
