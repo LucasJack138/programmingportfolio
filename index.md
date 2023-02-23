@@ -28,7 +28,7 @@ Cool take of the screen saver on windows 95
 
 ### Pig Latin Converter
 
-A way of changing words that we know into pig latin
+A way of changing words into Pig Latin
 
 ![Running Pig Latin](https://github.com/LunaticLuka/programmingportfolio/blob/main/images/Pig%20Latin.png)
 
