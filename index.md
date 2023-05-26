@@ -36,6 +36,8 @@ A way of changing words into Pig Latin
 
 ### Snake Clone
 
+A fun take on the snake game with a programming group that I worked with to make it.
+
 ![Running Snake Game](https://raw.githubusercontent.com/LemScoot/Group-Project-for-Programming-2023/main/Snake%20Clone/Images%20for%20Snake%20Clone/Screen%20Shot%202023-05-25%20at%2010.04.12%20AM.png)
 
 [Snake Clone source Code](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/src/Snake_Man-Luca.zip)
